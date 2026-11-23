@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Generated reports
+reports/*.json
+reports/*.txt
+
+# Generated logs
+logs/*.log
+
+# Virtual environments
+.venv/
+venv/
+
+# Editor settings
+.vscode/
